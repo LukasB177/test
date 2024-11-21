@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\PickByLightSystem\GUI\GUI\obj\Debug\
+c:\pickbylightsystem\githubtest repo\GUI\obj\Debug\
 GUI
 none
 false
 DEBUG;TRACE
-C:\PickByLightSystem\GUI\GUI\App.xaml
+c:\pickbylightsystem\githubtest repo\GUI\App.xaml
 14473906826
 1-1833135334
 19-1647640183
-45-1732941144
+45597352532
 ArchivierenWindow.xaml;auslagern0Window.xaml;cleanWindow.xaml;CopyandPrint.xaml;DateSelectionWindow.xaml;Einlagern0Window.xaml;helpWindow.xaml;lagervorgängeAnzeigenWindow.xaml;MainWindow.xaml;SchablonenlisteAnzeigenWindow.xaml;SchablonenprüfungenAnzeigenWindow.xaml;SchablonenvorgängeAnzeigenWindow.xaml;search.xaml;WarnungenAnzeigenWindow.xaml;
 
-False
+True
 
