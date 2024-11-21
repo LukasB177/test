@@ -1,0 +1,20 @@
+﻿<Window x:Class="GUI.cleanWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="cleanWindow" Height="158.197" Width="500">
+
+    <Grid Margin="0,0,-8,0">
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="119,0,0,0" Width="300"><Run Text=""/><LineBreak/><Run Text="Schablone entsprechend AI-653 017 geprüft?"/><LineBreak/><Run/></TextBlock>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,31,51,20">
+            <Button x:Name="btn_check_Yes" Content="Ja" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="65,48,0,0" Click="btn_check_Yes_Click"/>
+            <Button x:Name="btn_Check_No" Content="Nein" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="226,48,0,0" Click="btn_Check_No_Click"/>
+        </StackPanel>
+        <TextBlock x:Name="nachrichtText" Text="" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10"/>
+
+    </Grid>
+</Window>

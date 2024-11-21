@@ -1,0 +1,26 @@
+﻿<Window x:Class="GUI.helpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="Hilfe/Info" Height="550" Width="600">
+    <Grid>
+
+        <Label>
+            <Image Source="/Bilder/ZF logo Blue CMYK.png" Height="71" Width="123"/>
+        </Label>
+
+        <StackPanel Margin="200" Width="200">
+            <Label>Infos und Hilfe...</Label>
+        </StackPanel>
+
+        <StackPanel>
+            <Button x:Name="btn_helWindowAbbruch" Margin="200,300"  Width="150" Height="20" Click="btn_helpWindowAbbruch_Click" Content="Abbruch" />
+        </StackPanel>
+
+
+
+    </Grid>
+</Window>

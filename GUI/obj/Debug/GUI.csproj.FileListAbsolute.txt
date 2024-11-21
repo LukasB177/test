@@ -1,0 +1,187 @@
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\App.g.cs
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\MainWindow.baml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\GUI.g.resources
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\search.g.cs
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\search.baml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\MySql.Data.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\System.Buffers.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\System.Memory.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\ZstdSharp.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\MySql.Data.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\System.Buffers.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\System.Memory.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\helpWindow.g.cs
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\helpWindow.baml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\taketakeWindow.g.cs
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\takeWindow.g.cs
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\taketakeWindow.baml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\Neuer Ordner\GUI\GUI\obj\Debug\takeWindow.baml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\helpWindow.g.cs
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\search.g.cs
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\StorageWindow.g.cs
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\taketakeWindow.g.cs
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\takeWindow.g.cs
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\App.g.cs
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\MySql.Data.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\System.Buffers.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\System.Memory.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\ZstdSharp.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\MySql.Data.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\System.Buffers.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\System.Memory.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\helpWindow.baml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\MainWindow.baml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\search.baml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\taketakeWindow.baml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\takeWindow.baml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\StorageWindow.baml
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\GUI.g.resources
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\System.IO.Ports.dll
+C:\Users\Z0243429\OneDrive - ZF Friedrichshafen AG\Desktop\GUI\GUI\bin\Debug\System.IO.Ports.xml
+C:\PickByLightSystem\GUI\GUI\bin\Debug\GUI.exe.config
+C:\PickByLightSystem\GUI\GUI\bin\Debug\GUI.exe
+C:\PickByLightSystem\GUI\GUI\bin\Debug\GUI.pdb
+C:\PickByLightSystem\GUI\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\PickByLightSystem\GUI\GUI\bin\Debug\EPPlus.dll
+C:\PickByLightSystem\GUI\GUI\bin\Debug\EPPlus.Interfaces.dll
+C:\PickByLightSystem\GUI\GUI\bin\Debug\EPPlus.System.Drawing.dll
+C:\PickByLightSystem\GUI\GUI\bin\Debug\Google.Protobuf.dll
+C:\PickByLightSystem\GUI\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\PickByLightSystem\GUI\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\PickByLightSystem\GUI\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\PickByLightSystem\GUI\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PickByLightSystem\GUI\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\PickByLightSystem\GUI\GUI\bin\Debug\MySql.Data.dll
+C:\PickByLightSystem\GUI\GUI\bin\Debug\System.Buffers.dll
+C:\PickByLightSystem\GUI\GUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\PickByLightSystem\GUI\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\PickByLightSystem\GUI\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\PickByLightSystem\GUI\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\PickByLightSystem\GUI\GUI\bin\Debug\EPPlus.xml
+C:\PickByLightSystem\GUI\GUI\bin\Debug\Google.Protobuf.pdb
+C:\PickByLightSystem\GUI\GUI\bin\Debug\Google.Protobuf.xml
+C:\PickByLightSystem\GUI\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\PickByLightSystem\GUI\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\PickByLightSystem\GUI\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\PickByLightSystem\GUI\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\PickByLightSystem\GUI\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\PickByLightSystem\GUI\GUI\bin\Debug\MySql.Data.xml
+C:\PickByLightSystem\GUI\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\PickByLightSystem\GUI\GUI\obj\Debug\CopyandPrint.baml
+C:\PickByLightSystem\GUI\GUI\obj\Debug\DateSelectionWindow.baml
+C:\PickByLightSystem\GUI\GUI\obj\Debug\lagervorgängeAnzeigenWindow.baml
+C:\PickByLightSystem\GUI\GUI\obj\Debug\ArchivierenWindow.g.cs
+C:\PickByLightSystem\GUI\GUI\obj\Debug\auslagern0Window.g.cs
+C:\PickByLightSystem\GUI\GUI\obj\Debug\cleanWindow.g.cs
+C:\PickByLightSystem\GUI\GUI\obj\Debug\CopyandPrint.g.cs
+C:\PickByLightSystem\GUI\GUI\obj\Debug\DateSelectionWindow.g.cs
+C:\PickByLightSystem\GUI\GUI\obj\Debug\Einlagern0Window.g.cs
+C:\PickByLightSystem\GUI\GUI\obj\Debug\helpWindow.g.cs
+C:\PickByLightSystem\GUI\GUI\obj\Debug\lagervorgängeAnzeigenWindow.g.cs
+C:\PickByLightSystem\GUI\GUI\obj\Debug\MainWindow.g.cs
+C:\PickByLightSystem\GUI\GUI\obj\Debug\SchablonenlisteAnzeigenWindow.g.cs
+C:\PickByLightSystem\GUI\GUI\obj\Debug\SchablonenprüfungenAnzeigenWindow.g.cs
+C:\PickByLightSystem\GUI\GUI\obj\Debug\SchablonenvorgängeAnzeigenWindow.g.cs
+C:\PickByLightSystem\GUI\GUI\obj\Debug\search.g.cs
+C:\PickByLightSystem\GUI\GUI\obj\Debug\WarnungenAnzeigenWindow.g.cs
+C:\PickByLightSystem\GUI\GUI\obj\Debug\App.g.cs
+C:\PickByLightSystem\GUI\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\PickByLightSystem\GUI\GUI\obj\Debug\GUI_MarkupCompile.lref
+C:\PickByLightSystem\GUI\GUI\obj\Debug\ArchivierenWindow.baml
+C:\PickByLightSystem\GUI\GUI\obj\Debug\auslagern0Window.baml
+C:\PickByLightSystem\GUI\GUI\obj\Debug\cleanWindow.baml
+C:\PickByLightSystem\GUI\GUI\obj\Debug\Einlagern0Window.baml
+C:\PickByLightSystem\GUI\GUI\obj\Debug\helpWindow.baml
+C:\PickByLightSystem\GUI\GUI\obj\Debug\MainWindow.baml
+C:\PickByLightSystem\GUI\GUI\obj\Debug\SchablonenlisteAnzeigenWindow.baml
+C:\PickByLightSystem\GUI\GUI\obj\Debug\SchablonenprüfungenAnzeigenWindow.baml
+C:\PickByLightSystem\GUI\GUI\obj\Debug\SchablonenvorgängeAnzeigenWindow.baml
+C:\PickByLightSystem\GUI\GUI\obj\Debug\search.baml
+C:\PickByLightSystem\GUI\GUI\obj\Debug\WarnungenAnzeigenWindow.baml
+C:\PickByLightSystem\GUI\GUI\obj\Debug\GUI.g.resources
+C:\PickByLightSystem\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\PickByLightSystem\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\PickByLightSystem\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\PickByLightSystem\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\PickByLightSystem\GUI\GUI\obj\Debug\GUI.exe
+C:\PickByLightSystem\GUI\GUI\obj\Debug\GUI.pdb
+C:\PickByLightSystem\GUI\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\PickByLightSystem\GUI\GUI\obj\Debug\GUI_Content.g.cs
