@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\PickByLightSystem\GUI\GUI\obj\Release\
+C:\PickByLightSystem\GithubTest Repo\GUI\obj\Release\
 GUI
 none
 false
 TRACE
-C:\PickByLightSystem\GUI\GUI\App.xaml
-13-617954060
+C:\PickByLightSystem\GithubTest Repo\GUI\App.xaml
+14473906826
+1-1833135334
+19-1647640183
+37824666220
+ArchivierenWindow.xaml;auslagern0Window.xaml;cleanWindow.xaml;CopyandPrint.xaml;DateSelectionWindow.xaml;Einlagern0Window.xaml;helpWindow.xaml;lagervorgängeAnzeigenWindow.xaml;MainWindow.xaml;SchablonenlisteAnzeigenWindow.xaml;SchablonenprüfungenAnzeigenWindow.xaml;SchablonenvorgängeAnzeigenWindow.xaml;search.xaml;WarnungenAnzeigenWindow.xaml;
 
-181242844847
-28329079270
-ArchivierenWindow.xaml;auslagern0Window.xaml;cleanWindow.xaml;DateSelectionWindow.xaml;Einlagern0Window.xaml;helpWindow.xaml;lagervorgängeAnzeigenWindow.xaml;MainWindow.xaml;SchablonenlisteAnzeigenWindow.xaml;SchablonenprüfungenAnzeigenWindow.xaml;SchablonenvorgängeAnzeigenWindow.xaml;search.xaml;WarnungenAnzeigenWindow.xaml;
-
-False
+True
 
